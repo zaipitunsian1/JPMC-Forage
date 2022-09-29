@@ -5,6 +5,12 @@ This repository contains all the code for analysing stock market data using JPMo
 
 It also consists of the submitted patch files of the various tasks assigned during the JPMorgan Chase & Co. Software Engineering Virtual Internship
 
+<p align="center">
+<a href="https://www.insidesherpa.com/virtual-internships/prototype/R5iK7HMxJGBgaSbvk/Technology%20Virtual%20Experience" target="_blank">
+<img src="https://insidesherpa-assets.s3-ap-southeast-2.amazonaws.com/icons/jpmorgan/github+repo+images/jpmc+github+img.png">
+	</a>
+</p>
+
 ---
 #### 1. Interface with a stock price data feed [Code](https://github.com/SaharshLaud/JPMorgan-Chase-Perspective-Tool/tree/main/1.%20Interface%20with%20a%20stock%20price%20data%20feed)
 - Interface with a stock price data feed and set your system for analysis of data
