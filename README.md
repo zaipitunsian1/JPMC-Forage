@@ -12,20 +12,20 @@ It also consists of the submitted patch files of the various tasks assigned duri
 </p>
 
 ---
-#### 1. Interface with a stock price data feed [Code](https://github.com/SaharshLaud/JPMorgan-Chase-Perspective-Tool/tree/main/1.%20Interface%20with%20a%20stock%20price%20data%20feed)
+#### 1. Interface with a stock price data feed
 - Interface with a stock price data feed and set your system for analysis of data
 - `Financial Data` 
 - `Python3`
 - `Git`
 - `Basic Programming`
 
-#### 2. Use JPMorgan Chase frameworks and tools [Code](https://github.com/SaharshLaud/JPMorgan-Chase-Perspective-Tool/tree/main/2.%20Use%20JPMorgan%20Chase%20frameworks%20and%20tools)
+#### 2. Use JPMorgan Chase frameworks and tools 
 - Implement the perspective open source code in prepration for data visualization 
 - `React js` 
 - `TypeScript`
 - `Web Applications`
 
-#### 3. Display data visually for traders [Code](https://github.com/SaharshLaud/JPMorgan-Chase-Perspective-Tool/tree/main/3.%20Display%20data%20visually%20for%20traders)
+#### 3. Display data visually for traders 
 - Use Perspective to create the chart for the trader's dashboard  
 - `Technical Communications` 
 - `Financial Analysis`
