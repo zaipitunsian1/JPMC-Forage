@@ -1,7 +1,7 @@
 # JPMorgan Chase **Perspective** Tool
 Analysing stock market data using JPMorgan Chase Perspective Tool
 
-This repository contains all the code for analysing stock market data using JPMorgan Chase Perspective Tool. 
+This repository contains code that i used for analysing stock market data using JPMorgan Chase Perspective Tool. 
 
 It also consists of the submitted patch files of the various tasks assigned during the JPMorgan Chase & Co. Software Engineering Virtual Internship
 
@@ -34,5 +34,3 @@ It also consists of the submitted patch files of the various tasks assigned duri
 
 ![Final Application](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tz42b7fh6ovkvziqw5qc.jpg)
 ---
-### Let's connect :
-[LinkedIn: Saharsh Laud](https://www.linkedin.com/in/saharsh-laud/)
