@@ -15,7 +15,6 @@ gets data from the server application (see Before and After images below).<br>
 <br>
 Before, the web application only gets data every time we
 click on the 'Start Streaming Data' button and does not aggregate duplicated data.
-
 <h4>Now</h4>
 Now graph displayed in the client-side web application is continuously updating line graph whose y-axis
 is the stock’s top_ask_price and the x-axis is the timestamp of the stock.
