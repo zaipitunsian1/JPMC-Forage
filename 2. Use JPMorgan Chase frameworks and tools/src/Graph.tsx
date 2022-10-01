@@ -47,7 +47,7 @@ class Graph extends Component<IProps, {}> {
     if (this.table) {
       // Load the `table` in the `<perspective-viewer>` DOM reference.
 
-      // Add more Perspective configurations here.
+      // Added more Perspective configurations here.
       elem.load(this.table);
       elem.setAttribute('view', 'y_line');
       elem.setAttribute('column-pivots', '["stock"]');
@@ -62,7 +62,7 @@ class Graph extends Component<IProps, {}> {
   }
 
   componentDidUpdate() {
-    // Everytime the data props is updated, insert the data into Perspective table
+    // Everytime the data props is updated, data is inserted into Perspective table
     if (this.table) {
       // As part of the task, you need to fix the way we update the data props to
       // avoid inserting duplicated entries into Perspective table again.
